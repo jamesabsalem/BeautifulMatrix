@@ -1,0 +1,7 @@
+F:\Tutorial\Contest\BeautifulMatrix\BeautifulMatrix\bin\Debug\BeautifulMatrix.exe.config
+F:\Tutorial\Contest\BeautifulMatrix\BeautifulMatrix\bin\Debug\BeautifulMatrix.exe
+F:\Tutorial\Contest\BeautifulMatrix\BeautifulMatrix\bin\Debug\BeautifulMatrix.pdb
+F:\Tutorial\Contest\BeautifulMatrix\BeautifulMatrix\obj\Debug\BeautifulMatrix.csprojAssemblyReference.cache
+F:\Tutorial\Contest\BeautifulMatrix\BeautifulMatrix\obj\Debug\BeautifulMatrix.csproj.CoreCompileInputs.cache
+F:\Tutorial\Contest\BeautifulMatrix\BeautifulMatrix\obj\Debug\BeautifulMatrix.exe
+F:\Tutorial\Contest\BeautifulMatrix\BeautifulMatrix\obj\Debug\BeautifulMatrix.pdb
